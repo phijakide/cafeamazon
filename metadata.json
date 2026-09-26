@@ -1,0 +1,6 @@
+{
+  "name": "Café Amazan - Oasis of Fresh Coffee & Cozy Ambiance",
+  "description": "Experience Café Amazan: signature handcrafted drinks, store locator with interactive map, online ordering with drink customization, and loyalty club rewards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
